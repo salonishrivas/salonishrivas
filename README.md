@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saloni Shrivas
 
-### 📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel | Machine Learning
+### 📊 Data Analyst | Excel |Power BI | Tableau |  Python | SQL | Machine Learning
 
 
 > Turning raw data into **clear insights, actionable dashboards, and data-driven decisions.**
@@ -57,97 +57,6 @@ Currently focused on building **portfolio-ready Data Analytics and AI projects**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-# 📌 Featured Projects
-
-## 🏥 Hospital Patient & Treatment Management Analytics
-
-**Tools:** `Excel` `Power Query` `Power Pivot` `Pivot Tables` `Data Modeling` `Dashboard`
-
-An end-to-end healthcare analytics project focused on transforming patient, treatment, admission, and operational data into an interactive management dashboard.
-
-### Key Work
-
-* Cleaned and transformed multiple datasets using **Power Query**
-* Built a structured data model using **Power Pivot**
-* Created calculated fields and business KPIs
-* Developed PivotTables and PivotCharts
-* Analyzed patient admissions, treatments, departments, and operational metrics
-* Designed an interactive Excel dashboard with slicers and KPI cards
-
-**Focus:** Healthcare Analytics • KPI Reporting • Dashboard Development • Data Modeling
-
-🔗 **[View Project →](#)**
-
----
-<!---
-## 📦 Inventory & Asset Management Analytics
-
-**Tools:** `Excel` `Power Query` `Power Pivot` `Data Modeling` `Pivot Tables`
-
-Built an inventory analytics solution to monitor stock movement, suppliers, assets, and inventory performance.
-
-### Key Work
-
-* Cleaned and transformed inventory datasets
-* Built master tables and supporting lookup structures
-* Analyzed stock-in and stock-out transactions
-* Created inventory KPIs
-* Developed interactive dashboards
-* Used Power Query and Power Pivot for scalable data processing
-
-**Focus:** Inventory Analytics • Supply Chain • KPI Dashboard • Business Intelligence
-
-🔗 **[View Project →](#)**
-
----
-
-## 📣 Digital Marketing Performance Analytics
-
-**Tools:** `Excel` `Power Query` `Pivot Tables` `Data Analysis` `Dashboard`
-
-Analyzed marketing performance across **Meta Ads, Google Ads, YouTube Ads, Influencer Marketing, and Sales data**.
-
-### Key Analysis
-
-* 💰 Spend vs Revenue
-* 📈 ROAS by Channel
-* 🎯 CTR & Conversion Rate
-* 👥 Customer & Sales Performance
-* ▶️ YouTube Campaign Performance
-* 🤝 Influencer Performance
-* 📊 Marketing KPI comparison
-
-The project focuses on identifying high-performing channels and converting campaign data into business recommendations.
-
-**Focus:** Marketing Analytics • Campaign Performance • ROI Analysis • Business Insights
-
-🔗 **[View Project →](#)**
-
----
-
-## 🤖 Smart Agriculture — AI-Based Decision Support System
-
-**Tools:** `Python` `Machine Learning` `Data Analysis` `Visualization`
-
-An AI-driven decision-support concept designed to assist agricultural decision-making using predictive analytics.
-
-### Potential Prediction Areas
-
-* 🌾 Crop Yield Prediction
-* 🧪 Fertilizer Recommendation
-* 🦠 Crop Disease Prediction
-* 💧 Water / Irrigation Prediction
-
-**Focus:** Machine Learning • Predictive Analytics • Agriculture Technology • AI
-
-🔗 **[View Project →](#)**
-
----
-
---->
 
 # 📊 What I Can Do
 
