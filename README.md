@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saloni Shrivas
 
-### 📊 Data Analyst | Excel |Power BI | Tableau |  Python | SQL | Machine Learning
+### 📊 Data Science Learner | Excel | Power BI | Tableau |  Python | SQL | Machine Learning
 
 
 > Turning raw data into **clear insights, actionable dashboards, and data-driven decisions.**
